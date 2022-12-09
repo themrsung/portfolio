@@ -1,5 +1,5 @@
 import "./style/App.css"
-import { BrowserRouter, Route, Routes, useNavigate } from "react-router-dom"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
 import Landing from "./pages/Landing"
 import Home from "./pages/Home"
 
